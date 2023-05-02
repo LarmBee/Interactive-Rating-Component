@@ -30,7 +30,7 @@ function App() {
         <br/>
         </div>
         {/* Submit button */}
-        <button className="rounded-full border mt-2 h-12 w-72 bg-white hover:text-amber-600 ">SUBMIT</button>
+        <button className="rounded-full border mt-2 h-12 w-72 bg-amber-600 text-white hover:text-amber-600 hover:bg-white ">SUBMIT</button>
 			</div>
 		</div>
 	);
